@@ -14,7 +14,7 @@ It's a transition directory. I'm not quite shure what is the purpose, what I und
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-
+We can compare the files in the staged area to the last commit and/or the the working directory before we do our next commit. So we can track where were at in our code.
 
 -----
 
