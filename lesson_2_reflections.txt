@@ -21,7 +21,15 @@ We can compare the files in the staged area to the last commit and/or the the wo
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+For exemple if I want to try a new look and change the CSS on web project, I can do it in a new branch and change the css/html accordingly, then if it’s good I can add it to the master branch, if not I can discard it.
+
+-----
+
 How do the diagrams help you visualize the branch structure?
+
+It gives an image of a structure that could be complex.
+
+-----
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
