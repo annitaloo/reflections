@@ -34,5 +34,9 @@ It gives an image of a structure that could be complex.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+All the commits are joined on the same branch. The name of the branch that is merged into the other can then be deleted. We represent it as 2 lines that joins at the merge because it shows with commit is the parent of the other.
+
+-----
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
