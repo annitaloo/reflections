@@ -40,3 +40,5 @@ All the commits are joined on the same branch. The name of the branch that is me
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Automatic makes it easy and fast, and if there is a conflict then we can manually solve it, and that is perfect!!
